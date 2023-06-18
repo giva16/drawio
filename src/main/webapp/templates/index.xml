@@ -44,6 +44,9 @@
   <add>Uhttps://jgraph.github.io/drawio-libs/libs/fortinet/Fortinet_Vertical_Related.xml</add>
   <add>Uhttps://jgraph.github.io/drawio-libs/libs/fortinet/Fortinet_VM_Components.xml</add>
 </clibs>
+<clibs  name="soaml">
+  <add>Uhttps://raw.githubusercontent.com/giva16/drawio-custom-lib/main/SOAML%20Library/SoaML-General.xml<add>
+</clibs>
 <template url="basic/classes.xml" title="classDiagram" libs="general;uml" tags="classDiagram;Classes"/>
 <template url="basic/flowchart.xml" title="flowchart" libs="general;flowchart" tags="flowchart;Flowchart"/>
 <template url="basic/orgchart.xml" title="orgChart" libs="general;basic;arrows" tags="orgChart;Orgchart"/>
